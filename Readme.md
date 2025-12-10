@@ -19,13 +19,15 @@ It helps HR teams take data-driven actions to improve employee retention, satisf
 - Attrition by Age Group  
 - Attrition by Job Role  
 - Attrition by Gender  
+  
 
-  ---
 - ✔ Slicers 
 - Department  
 - Job Role  
 - Education Level  
   
+ 
+
 ---
 
 - Tools & Technologies Used
@@ -44,9 +46,9 @@ It helps HR teams take data-driven actions to improve employee retention, satisf
 
 ---
 
+
 - How to Use
 1. Download the `.pbix` file  
 2. Open with "Power BI Desktop" 
 3. Explore visuals using filters  
  
-
